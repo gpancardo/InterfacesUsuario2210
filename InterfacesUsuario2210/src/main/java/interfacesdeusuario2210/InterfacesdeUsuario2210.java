@@ -1,19 +1,18 @@
 package interfacesdeusuario2210;
 
+import ico.fes.iu.Miventana;
+import ico.fes.iu.MiVentanaVersion2;
+import ico.fes.iu.swing.VentanaSwing;
 
-import ico.fes.ui.Miventana;
 
-
-public class InterfacesdeUsuario2210 {
+public class InterfacesUsuario2210 {
 
     public static void main(String[] args) {
-  
-        Miventana w = new Miventana();
-        
-        
-        
-        
+
+        VentanaSwing vs= new VentanaSwing();
         
     }
     
+    
+}
 }
